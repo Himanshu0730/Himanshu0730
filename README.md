@@ -20,6 +20,6 @@
 <br><b></b>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshu0730&show_icons=true&locale=en" alt="himanshu0730" /></p><br>
-br>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu0730&" alt="himanshu0730" /></p><br>
 <br>
