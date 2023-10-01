@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **javascript ,DOM,java**
 
-- 💬 Ask me about **html , css , c language**
+- 💬 Ask me about **html , css , c language,python**
 
 - 📫 How to reach me **himanshuuikey43@gmail.com**
 
