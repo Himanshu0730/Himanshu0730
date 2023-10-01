@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu0730&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu0730" /> </p>
 
-- 🌱 I’m currently learning **javascript ,bootstrap ,java**
+- 🌱 I’m currently learning **javascript ,DOM,java**
 
 - 💬 Ask me about **html , css , c language**
 
