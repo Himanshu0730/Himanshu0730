@@ -8,7 +8,7 @@
 - 💬 Ask me about **html , css , c language,python**
 
 - 📫 How to reach me **himanshuuikey43@gmail.com**
-<span><iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></span>
+
 <p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
 
 <h3 align="left">Connect with me:</h3>
