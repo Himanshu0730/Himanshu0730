@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **himanshuuikey43@gmail.com**
 
-<p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
