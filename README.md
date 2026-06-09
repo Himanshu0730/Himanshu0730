@@ -2,16 +2,12 @@
 
 <h3 align="center">Web Developer · India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanshu0730&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
 - 🎯 I'm a **Web Developer** passionate about building clean, responsive web experiences
-- 🌱 Currently leveling up in ** DOM manipulation & React**
+- 🌱 Currently leveling up in **DOM manipulation & React**
 - 🛠️ I enjoy crafting UIs with **HTML, CSS, Bootstrap & JavaScript**
 - 🎨 I also work with design tools like **Figma & Photoshop**
 
